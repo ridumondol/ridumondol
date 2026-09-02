@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ridoy%20Mondol&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="./banner.png" alt="Ridoy Mondol banner" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+JavaScript+%26+TypeScript;Crafting+UIs+with+React;Learning+Full-Stack+Development;Growing+one+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -103,3 +103,4 @@ const ridoyMondol = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
+
