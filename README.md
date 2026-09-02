@@ -64,24 +64,14 @@ const ridoyMondol = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ridumondol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridumondol&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
 <img src="https://streak-stats.demolab.com?user=ridumondol&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridumondol&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
+
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ridumondol&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies"/>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
