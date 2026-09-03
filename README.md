@@ -1,13 +1,10 @@
 <div align="center">
-
 <img src="./banner.png" alt="Ridoy Mondol banner" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=61DAFB&center=true&vCenter=true&width=600&lines=Building+with+JavaScript+%26+TypeScript;Crafting+UIs+with+React;Learning+Full-Stack+Development;Growing+one+project+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ridu47/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mondolridoy406@gmail.com)
-
 </div>
 
 ---
@@ -18,17 +15,18 @@
 const ridoyMondol = {
   location: "Habiganj, Sylhet, Bangladesh 🇧🇩",
   role: "Aspiring Full-Stack Developer",
-  currentlyLearning: ["JavaScript", "TypeScript", "React", "Node.js"],
+  currentlyBuilding: "Blood Donation Compatibility Checker (Bangla)", // আসল কারেন্ট প্রজেক্ট বসান
+  currentlyLearning: ["TypeScript", "React", "Node.js"],
   goal: "Become a professional Full-Stack Developer",
   philosophy: "Learn every day, build every day, grow every day 🚀"
 };
 ```
 
-- 🌱 Currently deep-diving into **JavaScript, TypeScript & React**
+- 🔭 বর্তমানে কাজ করছি **[আপনার এখনকার প্রজেক্টের নাম]** নিয়ে
+- 🌱 শিখছি **Node.js ও ডেটাবেজ (SQL/MongoDB)**
 - 💻 Building real-world projects to sharpen practical skills
 - 🧠 Practicing problem solving & modern web development patterns
 - 🎨 Passionate about clean, responsive, and accessible UI
-- 🚀 Long-term goal: professional **Full-Stack Developer**
 
 ---
 
@@ -64,14 +62,14 @@ const ridoyMondol = {
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=ridumondol&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridumondol&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
 <img src="https://streak-stats.demolab.com?user=ridumondol&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="70%"/>
-
-
 
 </div>
 
 ---
-
 
 ## 🤝 Connect With Me
 
